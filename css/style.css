@@ -1,0 +1,54 @@
+/* Basic styling */
+
+body{
+    font-family:Arial,sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+
+h1, h2{ 
+    color: #333;
+
+}
+
+
+input,textarea{
+    padding: 8px;
+    margin:5px;
+    width:250px;
+}
+
+button{
+    padding:8px 16px;
+    background: #007BFF;
+    color: white;
+    border:none;
+}
+
+button:hover{
+    background: #0056b3;
+}
+a{
+    color:#007BFF;
+    text-decoration:none;
+}
+table
+{
+    margin:10px auto;
+    border-collapse:collapse;
+}
+th,td
+{
+    padding:8px;
+    border:1px solid #ddd;
+}
+th{
+    background:#f4f4f4;
+}
+
+header,footer{
+    text-align: center;
+    padding:10px;
+    background: #f4f4f4;
+}
+
