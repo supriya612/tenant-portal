@@ -1,7 +1,8 @@
-<!-- Database connection classes -->
+
 
 <?php
 
+//Database connection classes 
 
 class Database
 {
